@@ -7,7 +7,7 @@ Bluetooth low energy (BLE) beacon network is one of the most favored IoT infrast
 
 ## Resources
 In the repository, resources are allocated as followed
-1. Raw collected BLE advertisement data (In data directory),
+1. Raw collected BLE advertisement data (In dataset directory),
 2. Template code for the solution (In code directory, in Java)
 
 ## Special Thanks
